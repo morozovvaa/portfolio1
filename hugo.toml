@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://morozovvaa.github.io/portfolio1/"
 languageCode = "en-us"
 title = "Diana Morozova"
 theme = "hugo-coder"
@@ -32,23 +32,23 @@ theme = "hugo-coder"
   faviconThemeColor = "#ffffff"
 
 [menu]
-  [[menu.nav]]
+  [[menu.main]]
   name = "1st year"
   url = "/1st/"
   weight = 1
-  [[menu.nav]]
+  [[menu.main]]
   name = "2nd year"
   url = "/2nd/"
   weight = 2
-  [[menu.nav]]
+  [[menu.main]]
   name = "3rd year"
   url = "/3rd/"
   weight = 3
-  [[menu.nav]]
+  [[menu.main]]
   name = "4th year"
   url = "/4th/"
   weight = 4
-  [[menu.nav]]
+  [[menu.main]]
   name = "About"
   url = "/about/"
   weight = 5
