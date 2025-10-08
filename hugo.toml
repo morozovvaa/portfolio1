@@ -11,7 +11,7 @@ theme = "hugo-coder"
   post = "/:filename/"
 
 [params]
-  mainSections = []
+  mainSections = ["about", "1st", "2nd", "3rd", "4th"]
   description = "Student portfolio"
   contentBackgroundColor = "#fff"
   contentTextColor = "#212529"
