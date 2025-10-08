@@ -1,7 +1,7 @@
-baseURL = "https://morozovvaa.github.io/portfolio1/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Diana Morozova"
-theme = "minimal-bootstrap-hugo-theme"
+theme = "hugo-coder"
 
 [taxonomies]
   tag = "tags"
